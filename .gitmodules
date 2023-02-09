@@ -1,0 +1,3 @@
+[submodule "requests-ntlm"]
+	path = requests-ntlm
+	url = https://github.com/requests/requests-ntlm.git
